@@ -1,0 +1,33 @@
+# UTF-8
+# PyInstaller Windows version resource — visible in exe Properties → Details
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 1, 0, 0),
+    prodvers=(1, 1, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        u'040904B0',
+        [
+          StringStruct(u'CompanyName', u'Ghaith S. Jawad'),
+          StringStruct(u'FileDescription', u'Folder Icon Studio'),
+          StringStruct(u'FileVersion', u'1.1.0.0'),
+          StringStruct(u'InternalName', u'FolderIconStudio'),
+          StringStruct(u'LegalCopyright', u'Copyright (C) 2026 Ghaith S. Jawad'),
+          StringStruct(u'OriginalFilename', u'FolderIconStudio.exe'),
+          StringStruct(u'ProductName', u'Folder Icon Studio'),
+          StringStruct(u'ProductVersion', u'1.1.0.0'),
+          StringStruct(u'Comments', u'Safagsj3560@gmail.com'),
+        ]
+      )
+    ]),
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
