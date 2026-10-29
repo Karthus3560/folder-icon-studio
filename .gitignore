@@ -46,3 +46,4 @@ coverage/
 .DS_Store
 desktop.ini
 .foldericonstudio
+graphify-out/cache/
