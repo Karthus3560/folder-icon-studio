@@ -31,3 +31,18 @@ FolderIconStudio/Assets/StarterIcons/*.ico
 
 # Logs
 *.log
+
+# backup-safety
+node_modules/
+target/
+.vercel/
+.firebase/
+coverage/
+.env
+.env.*
+!.env.example
+**/*service-account*.json
+**/*firebase-adminsdk*.json
+.DS_Store
+desktop.ini
+.foldericonstudio

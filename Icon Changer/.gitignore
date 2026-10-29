@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Published binary (uploaded via GitHub Releases)
+publish/
+
+# Local icon source (bundled copy is committed under assets/bundled)
+New Icons/
+
+# IDE / OS
+.vs/
+.vscode/
+*.user
+Thumbs.db
+Desktop.ini
+
+# Legacy C# build output
+bin/
+obj/
+FolderIconStudio/Assets/StarterIcons/*.ico
+
+# Logs
+*.log
