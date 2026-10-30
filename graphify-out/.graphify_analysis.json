@@ -1238,7 +1238,7 @@
   "questions": [
     {
       "type": "bridge_node",
-      "question": "Why does `MainViewModel` connect `Community 10` to `Community 0`, `Community 1`, `Community 34`, `Community 7`, `Community 9`, `Community 23`, `Community 24`, `Community 27`, `Community 31`?",
+      "question": "Why does `MainViewModel` connect `MainViewModel` to `FolderIconService`, `FolderIconStudio.Services`, `IconViewModel`, `Window`, `SettingsService`, `.ReloadIcons`, `IconViewModel`, `RelayCommand`, `IconLibraryService`?",
       "why": "High betweenness centrality (0.048) - this node is a cross-community bridge."
     },
     {
@@ -1253,12 +1253,12 @@
     },
     {
       "type": "low_cohesion",
-      "question": "Should `Community 0` be split into smaller, more focused modules?",
+      "question": "Should `FolderIconService` be split into smaller, more focused modules?",
       "why": "Cohesion score 0.06519114688128773 - nodes in this community are weakly interconnected."
     },
     {
       "type": "bridge_node",
-      "question": "Why does `MainViewModel` connect `Community 11` to `Community 0`, `Community 1`, `Community 34`, `Community 7`, `Community 9`, `Community 10`, `Community 23`, `Community 24`, `Community 27`, `Community 31`?",
+      "question": "Why does `MainViewModel` connect `MainViewModel` to `FolderIconService`, `FolderIconStudio.Services`, `IconViewModel`, `Window`, `SettingsService`, `MainViewModel`, `.ReloadIcons`, `IconViewModel`, `RelayCommand`, `IconLibraryService`?",
       "why": "High betweenness centrality (0.046) - this node is a cross-community bridge."
     },
     {
@@ -1268,7 +1268,7 @@
     },
     {
       "type": "low_cohesion",
-      "question": "Should `Community 1` be split into smaller, more focused modules?",
+      "question": "Should `FolderIconStudio.Services` be split into smaller, more focused modules?",
       "why": "Cohesion score 0.08852459016393442 - nodes in this community are weakly interconnected."
     }
   ]

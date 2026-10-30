@@ -14,44 +14,44 @@
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
-- Community 0
-- Community 1
-- Community 2
-- Community 3
-- Community 4
-- Community 5
-- Community 6
-- Community 7
-- Community 8
-- Community 9
-- Community 10
-- Community 11
-- Community 12
-- Community 13
-- Community 14
-- Community 16
-- Community 17
-- Community 18
-- Community 19
-- Community 20
-- Community 21
-- Community 22
-- Community 23
-- Community 24
-- Community 25
-- Community 26
-- Community 27
-- Community 28
-- Community 29
-- Community 30
-- Community 31
-- Community 32
-- Community 33
-- Community 34
-- Community 35
-- Community 36
-- Community 37
-- Community 38
+- FolderIconService
+- FolderIconStudio.Services
+- Icon Changer/folder_icon_studio/icon_library.py
+- AppSettings
+- FolderListWidget
+- DllImport
+- FolderListWidget
+- Window
+- RoutedEventArgs
+- SettingsService
+- MainViewModel
+- MainViewModel
+- CultureInfo
+- categories
+- categories
+- folder_icon_studio/icon_library.py
+- folder_icon_studio/win32_icons.py
+- MainWindow
+- IconLibraryService
+- folder_icon_studio/app.py
+- Icon Changer/folder_icon_studio/win32_icons.py
+- FolderRowWidget
+- .ReloadIcons
+- IconViewModel
+- Icon Changer/folder_icon_studio/app.py
+- folder_icon_studio/generate_starters.py
+- RelayCommand
+- MainWindow
+- ThumbnailCache
+- FolderIconStudio
+- IconLibraryService
+- .FillRoundedRect
+- _app_icon
+- IconViewModel
+- SingleInstanceService
+- ImageSource
+- FirstRunDialog
+- FirstRunDialog
 
 ## God Nodes (most connected - your core abstractions)
 1. `MainViewModel` - 46 edges
@@ -82,127 +82,127 @@
 
 ## Communities (51 total, 20 thin omitted)
 
-### Community 0 - "Community 0"
+### Community 0 - "FolderIconService"
 Cohesion: 0.07
 Nodes (14): FileAttributesInterop, PathHelper, ElevationHelper, ElevationJob, FolderPath, IconPath, Operation, FolderIconService (+6 more)
 
-### Community 1 - "Community 1"
+### Community 1 - "FolderIconStudio.Services"
 Cohesion: 0.09
 Nodes (8): FolderIconStudio.Helpers, FolderIconStudio.Native, FolderIconStudio.Models, FolderIconStudio.ViewModels, FolderIconStudio, FolderIconStudio.Views, FolderIconStudio.Services, RegistryService
 
-### Community 2 - "Community 2"
+### Community 2 - "Icon Changer/folder_icon_studio/icon_library.py"
 Cohesion: 0.08
 Nodes (32): categorize_icon(), category_sort_key(), _matches(), _normalize_name(), _ico_size(), main(), prepare_bundled(), _safe_filename() (+24 more)
 
-### Community 3 - "Community 3"
+### Community 3 - "AppSettings"
 Cohesion: 0.05
 Nodes (40): AppSettings, ContextMenuEnabled, Favorites, FirstRunCompleted, LibraryPath, RecentlyUsed, Theme, AppTheme (+32 more)
 
-### Community 4 - "Community 4"
+### Community 4 - "FolderListWidget"
 Cohesion: 0.06
 Nodes (6): FolderListWidget, GlassPanel, IconGridWidget, OrbBackground, FolderRowWidget, IconPreview
 
-### Community 5 - "Community 5"
+### Community 5 - "DllImport"
 Cohesion: 0.09
 Nodes (10): ThemeHelper, DwmInterop, MARGINS, ShellInterop, ThemeHelper, DwmInterop, FileAttributesInterop, MARGINS (+2 more)
 
-### Community 6 - "Community 6"
+### Community 6 - "FolderListWidget"
 Cohesion: 0.06
 Nodes (7): FolderListWidget, GlassPanel, IconGridWidget, OrbBackground, _load_rgba(), _pil_to_pixmap(), ThumbnailCache
 
-### Community 7 - "Community 7"
+### Community 7 - "Window"
 Cohesion: 0.10
 Nodes (20): Window, BrowseFileCommand, DisplayName, FilteredIcons, IconMissing, IsFavorite, IsSelected, OpenLibraryCommand (+12 more)
 
-### Community 8 - "Community 8"
+### Community 8 - "RoutedEventArgs"
 Cohesion: 0.10
 Nodes (15): ContextMenuToggle, LibraryPathBox, ThemeCombo, Window, SettingsWindow, CheckBox, ComboBox, TextBox (+7 more)
 
-### Community 9 - "Community 9"
+### Community 9 - "SettingsService"
 Cohesion: 0.16
 Nodes (10): Application, App, MainWindow, ViewModel, RegistryService, SettingsService, Settings, SingleInstanceService (+2 more)
 
-### Community 10 - "Community 10"
+### Community 10 - "MainViewModel"
 Cohesion: 0.07
 Nodes (22): MainViewModel, AllIcons, BrowseFileCommand, CanSave, FavoriteIcons, FilteredIcons, HasCustomIcon, HasRecentIcons (+14 more)
 
-### Community 11 - "Community 11"
+### Community 11 - "MainViewModel"
 Cohesion: 0.08
 Nodes (22): MainViewModel, AllIcons, BrowseFileCommand, CanSave, FavoriteIcons, FilteredIcons, HasCustomIcon, HasRecentIcons (+14 more)
 
-### Community 12 - "Community 12"
+### Community 12 - "CultureInfo"
 Cohesion: 0.14
 Nodes (12): BoolToVisibilityConverter, Instance, CountToVisibilityConverter, Instance, FavoriteColorConverter, Instance, BoolToVisibilityConverter, Instance (+4 more)
 
-### Community 13 - "Community 13"
+### Community 13 - "categories"
 Cohesion: 0.08
 Nodes (25): categories, Adobe Creative, Apps & Utilities, Chat & Social, Development, Devices & Printers, Documents & Notes, Drives & Cloud (+17 more)
 
-### Community 14 - "Community 14"
+### Community 14 - "categories"
 Cohesion: 0.08
 Nodes (25): categories, Adobe Creative, Apps & Utilities, Chat & Social, Development, Devices & Printers, Documents & Notes, Drives & Cloud (+17 more)
 
-### Community 16 - "Community 16"
+### Community 16 - "folder_icon_studio/icon_library.py"
 Cohesion: 0.20
 Nodes (17): bundled_license_path(), bundled_manifest(), _bundled_version(), _copy_tree_all(), _copy_tree_if_missing(), default_library_path(), ensure_library(), icon_category() (+9 more)
 
-### Community 17 - "Community 17"
+### Community 17 - "folder_icon_studio/win32_icons.py"
 Cohesion: 0.21
 Nodes (11): apply_icon(), get_attributes(), get_current_icon_path(), get_folder_icon_state(), _long_path(), notify_folder_changed(), _prepare_folder(), _read_ini() (+3 more)
 
-### Community 18 - "Community 18"
+### Community 18 - "MainWindow"
 Cohesion: 0.15
 Nodes (5): _app_icon_path(), _assets_root(), _bundled_assets_dir(), MainWindow, _starter_assets_dir()
 
-### Community 20 - "Community 20"
+### Community 20 - "folder_icon_studio/app.py"
 Cohesion: 0.15
 Nodes (6): _enable_hd(), main(), bundled_publisher_json(), register_publisher_metadata(), bundled_publisher_json(), register_publisher_metadata()
 
-### Community 21 - "Community 21"
+### Community 21 - "Icon Changer/folder_icon_studio/win32_icons.py"
 Cohesion: 0.32
 Nodes (11): apply_icon(), get_attributes(), get_current_icon_path(), get_folder_icon_state(), _long_path(), notify_folder_changed(), _prepare_folder(), _read_ini() (+3 more)
 
-### Community 23 - "Community 23"
+### Community 23 - ".ReloadIcons"
 Cohesion: 0.17
 Nodes (6): IconItem, DisplayName, FilePath, IsFavorite, IsMissing, IsStarter
 
-### Community 24 - "Community 24"
+### Community 24 - "IconViewModel"
 Cohesion: 0.14
 Nodes (8): IconViewModel, DisplayName, FilePath, IsFavorite, IsMissing, IsSelected, Item, Preview
 
-### Community 25 - "Community 25"
+### Community 25 - "Icon Changer/folder_icon_studio/app.py"
 Cohesion: 0.23
 Nodes (7): _app_icon(), _app_icon_path(), _assets_root(), _bundled_assets_dir(), _enable_hd(), main(), _starter_assets_dir()
 
-### Community 26 - "Community 26"
+### Community 26 - "folder_icon_studio/generate_starters.py"
 Cohesion: 0.18
 Nodes (6): _darken(), _draw_folder(), generate_all(), _darken(), _draw_folder(), generate_all()
 
-### Community 27 - "Community 27"
+### Community 27 - "RelayCommand"
 Cohesion: 0.15
 Nodes (4): RelayCommand, RelayCommand, RelayCommand, RelayCommand
 
-### Community 29 - "Community 29"
+### Community 29 - "ThumbnailCache"
 Cohesion: 0.23
 Nodes (3): _load_rgba(), _pil_to_pixmap(), ThumbnailCache
 
-### Community 30 - "Community 30"
+### Community 30 - "FolderIconStudio"
 Cohesion: 0.24
 Nodes (10): FolderIconStudio, net8.0-windows, System.Drawing.Common (8.0.10), Microsoft.NET.Sdk, FolderIconStudio, System.Drawing.Common (8.0.10), StarterIconGenerator, System.Drawing.Common (8.0.10) (+2 more)
 
-### Community 33 - "Community 33"
+### Community 33 - "_app_icon"
 Cohesion: 0.24
 Nodes (7): _app_icon(), main(), capture_next(), queue_shots(), main(), capture_next(), queue_shots()
 
-### Community 34 - "Community 34"
+### Community 34 - "IconViewModel"
 Cohesion: 0.20
 Nodes (8): IconViewModel, DisplayName, FilePath, IsFavorite, IsMissing, IsSelected, Item, Preview
 
-### Community 37 - "Community 37"
+### Community 37 - "FirstRunDialog"
 Cohesion: 0.47
 Nodes (3): Window, FirstRunDialog, RegisterContextMenu
 
-### Community 38 - "Community 38"
+### Community 38 - "FirstRunDialog"
 Cohesion: 0.47
 Nodes (3): Window, FirstRunDialog, RegisterContextMenu
 
@@ -214,17 +214,17 @@ Nodes (3): Window, FirstRunDialog, RegisterContextMenu
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `MainViewModel` connect `Community 10` to `Community 0`, `Community 1`, `Community 34`, `Community 7`, `Community 9`, `Community 23`, `Community 24`, `Community 27`, `Community 31`?**
+- **Why does `MainViewModel` connect `MainViewModel` to `FolderIconService`, `FolderIconStudio.Services`, `IconViewModel`, `Window`, `SettingsService`, `.ReloadIcons`, `IconViewModel`, `RelayCommand`, `IconLibraryService`?**
   _High betweenness centrality (0.048) - this node is a cross-community bridge._
 - **Are the 3 inferred relationships involving `MainWindow` (e.g. with `ThumbnailCache` and `main()`) actually correct?**
   _`MainWindow` has 3 INFERRED edges - model-reasoned connections that need verification._
 - **What connects `FolderPath`, `IconPath`, `Operation` to the rest of the system?**
   _122 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Community 0` be split into smaller, more focused modules?**
+- **Should `FolderIconService` be split into smaller, more focused modules?**
   _Cohesion score 0.06519114688128773 - nodes in this community are weakly interconnected._
-- **Why does `MainViewModel` connect `Community 11` to `Community 0`, `Community 1`, `Community 34`, `Community 7`, `Community 9`, `Community 10`, `Community 23`, `Community 24`, `Community 27`, `Community 31`?**
+- **Why does `MainViewModel` connect `MainViewModel` to `FolderIconService`, `FolderIconStudio.Services`, `IconViewModel`, `Window`, `SettingsService`, `MainViewModel`, `.ReloadIcons`, `IconViewModel`, `RelayCommand`, `IconLibraryService`?**
   _High betweenness centrality (0.046) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `IconLibraryService` (e.g. with `.Application_Startup()` and `.Application_Startup()`) actually correct?**
   _`IconLibraryService` has 2 INFERRED edges - model-reasoned connections that need verification._
-- **Should `Community 1` be split into smaller, more focused modules?**
+- **Should `FolderIconStudio.Services` be split into smaller, more focused modules?**
   _Cohesion score 0.08852459016393442 - nodes in this community are weakly interconnected._
