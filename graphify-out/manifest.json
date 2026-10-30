@@ -516,5 +516,53 @@
     "seen": 1793318275.7867787,
     "ast_hash": "1cd44737b4fb8752fc34394292b9867e",
     "semantic_hash": "1cd44737b4fb8752fc34394292b9867e"
+  },
+  "Icon Changer/docs/screenshots/01-main-window.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.940174,
+    "ast_hash": "cc7e50381f060124c7859ee8cb1c9ad4",
+    "semantic_hash": ""
+  },
+  "Icon Changer/docs/screenshots/02-folders-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.940176,
+    "ast_hash": "f9d3f72ffc38855116ffb6ff93d90c6e",
+    "semantic_hash": ""
+  },
+  "Icon Changer/docs/screenshots/03-windows-system-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401774,
+    "ast_hash": "2ae89a5f3ef2f73accce8baa2db9b50e",
+    "semantic_hash": ""
+  },
+  "Icon Changer/docs/screenshots/04-development-category.png": {
+    "mtime": 1788594874.0,
+    "seen": 1793319387.9401782,
+    "ast_hash": "8057f597b5aa7c93bb4db7027dde2e03",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/01-main-window.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401789,
+    "ast_hash": "cc7e50381f060124c7859ee8cb1c9ad4",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/02-folders-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401798,
+    "ast_hash": "f9d3f72ffc38855116ffb6ff93d90c6e",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/03-windows-system-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401805,
+    "ast_hash": "2ae89a5f3ef2f73accce8baa2db9b50e",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/04-development-category.png": {
+    "mtime": 1788594874.0,
+    "seen": 1793319387.9401815,
+    "ast_hash": "8057f597b5aa7c93bb4db7027dde2e03",
+    "semantic_hash": ""
   }
 }

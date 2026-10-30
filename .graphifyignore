@@ -1,0 +1,9 @@
+# Keep the Graphify code graph to real source: skip bundled/minified third-party and build files.
+*.min.js
+*.min.css
+
+# Code-only: the commit hook runs `graphify update`, which would otherwise index docs.
+*.md
+*.mdx
+*.rst
+*.txt

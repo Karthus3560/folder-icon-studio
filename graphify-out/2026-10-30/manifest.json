@@ -1,0 +1,568 @@
+{
+  "FolderIconStudio.sln": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7807329,
+    "ast_hash": "574d05043340be0d37ab5a38f9d80332",
+    "semantic_hash": "574d05043340be0d37ab5a38f9d80332"
+  },
+  "FolderIconStudio/App.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.780909,
+    "ast_hash": "631a71c698cc9d195c16cbfeb90e85cd",
+    "semantic_hash": "631a71c698cc9d195c16cbfeb90e85cd"
+  },
+  "FolderIconStudio/App.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7809885,
+    "ast_hash": "9a618b70be6f1bbd189570d3527c1561",
+    "semantic_hash": "9a618b70be6f1bbd189570d3527c1561"
+  },
+  "FolderIconStudio/FolderIconStudio.csproj": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.781077,
+    "ast_hash": "59ebeaf130bb5eb36b946992b4719304",
+    "semantic_hash": "59ebeaf130bb5eb36b946992b4719304"
+  },
+  "FolderIconStudio/GlobalUsings.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7811453,
+    "ast_hash": "6f64055ed68ac705e5b14ef4469dec26",
+    "semantic_hash": "6f64055ed68ac705e5b14ef4469dec26"
+  },
+  "FolderIconStudio/Helpers/ThemeHelper.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7812111,
+    "ast_hash": "93f888ed1535ab0a0e7b63c0c9c59bc6",
+    "semantic_hash": "93f888ed1535ab0a0e7b63c0c9c59bc6"
+  },
+  "FolderIconStudio/MainWindow.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.781282,
+    "ast_hash": "0d3d4969d6fd66e94ab22fbf312e67cb",
+    "semantic_hash": "0d3d4969d6fd66e94ab22fbf312e67cb"
+  },
+  "FolderIconStudio/MainWindow.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7813442,
+    "ast_hash": "27e92bac090e16b80e7fd3d562dab903",
+    "semantic_hash": "27e92bac090e16b80e7fd3d562dab903"
+  },
+  "FolderIconStudio/Models/AppModels.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7814076,
+    "ast_hash": "4db344eaaa63b5e60dcf6088ed80b070",
+    "semantic_hash": "4db344eaaa63b5e60dcf6088ed80b070"
+  },
+  "FolderIconStudio/Native/ShellInterop.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7814722,
+    "ast_hash": "28c7d2464635cd0f8d9f6f2ef67b47cb",
+    "semantic_hash": "28c7d2464635cd0f8d9f6f2ef67b47cb"
+  },
+  "FolderIconStudio/Services/ElevationHelper.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7815366,
+    "ast_hash": "7607ec9ee91f86891ba8d07517062a2d",
+    "semantic_hash": "7607ec9ee91f86891ba8d07517062a2d"
+  },
+  "FolderIconStudio/Services/FolderIconService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7816145,
+    "ast_hash": "8b63a6c8db444fb86d38674c81471974",
+    "semantic_hash": "8b63a6c8db444fb86d38674c81471974"
+  },
+  "FolderIconStudio/Services/IconLibraryService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.78168,
+    "ast_hash": "8daf0825ce30a84d73fe747e90595d8f",
+    "semantic_hash": "8daf0825ce30a84d73fe747e90595d8f"
+  },
+  "FolderIconStudio/Services/RegistryService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.781743,
+    "ast_hash": "fc3a81d0c0e5e53ba7a2d1b70c9eec66",
+    "semantic_hash": "fc3a81d0c0e5e53ba7a2d1b70c9eec66"
+  },
+  "FolderIconStudio/Services/SettingsService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.781806,
+    "ast_hash": "4240ec7a6ccfc5baf018b395040bbfe3",
+    "semantic_hash": "4240ec7a6ccfc5baf018b395040bbfe3"
+  },
+  "FolderIconStudio/Services/SingleInstanceService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7818687,
+    "ast_hash": "d131ccf4e3ea8665062dc434e11b3186",
+    "semantic_hash": "d131ccf4e3ea8665062dc434e11b3186"
+  },
+  "FolderIconStudio/ViewModels/Converters.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7819614,
+    "ast_hash": "7893b85622d5d61864b714adf0d9043e",
+    "semantic_hash": "7893b85622d5d61864b714adf0d9043e"
+  },
+  "FolderIconStudio/ViewModels/MainViewModel.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7820275,
+    "ast_hash": "1960d90761f16e8c6d7578185f4452b9",
+    "semantic_hash": "1960d90761f16e8c6d7578185f4452b9"
+  },
+  "FolderIconStudio/Views/FirstRunDialog.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7820904,
+    "ast_hash": "ddfd1c6fb68ab78c6f22cc1b6f865f8d",
+    "semantic_hash": "ddfd1c6fb68ab78c6f22cc1b6f865f8d"
+  },
+  "FolderIconStudio/Views/FirstRunDialog.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7821558,
+    "ast_hash": "8855ff5d3f244b43c0fb9f56c7f472db",
+    "semantic_hash": "8855ff5d3f244b43c0fb9f56c7f472db"
+  },
+  "FolderIconStudio/Views/SettingsWindow.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.782221,
+    "ast_hash": "87930e4081359155d800ee74d4baaf94",
+    "semantic_hash": "87930e4081359155d800ee74d4baaf94"
+  },
+  "FolderIconStudio/Views/SettingsWindow.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7822828,
+    "ast_hash": "e5d37b3ee60d44214510134f7a3ff1ab",
+    "semantic_hash": "e5d37b3ee60d44214510134f7a3ff1ab"
+  },
+  "Icon Changer/FolderIconStudio.sln": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7823622,
+    "ast_hash": "574d05043340be0d37ab5a38f9d80332",
+    "semantic_hash": "574d05043340be0d37ab5a38f9d80332"
+  },
+  "Icon Changer/FolderIconStudio/App.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.782429,
+    "ast_hash": "631a71c698cc9d195c16cbfeb90e85cd",
+    "semantic_hash": "631a71c698cc9d195c16cbfeb90e85cd"
+  },
+  "Icon Changer/FolderIconStudio/App.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7824955,
+    "ast_hash": "9a618b70be6f1bbd189570d3527c1561",
+    "semantic_hash": "9a618b70be6f1bbd189570d3527c1561"
+  },
+  "Icon Changer/FolderIconStudio/FolderIconStudio.csproj": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.782559,
+    "ast_hash": "59ebeaf130bb5eb36b946992b4719304",
+    "semantic_hash": "59ebeaf130bb5eb36b946992b4719304"
+  },
+  "Icon Changer/FolderIconStudio/GlobalUsings.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7826235,
+    "ast_hash": "6f64055ed68ac705e5b14ef4469dec26",
+    "semantic_hash": "6f64055ed68ac705e5b14ef4469dec26"
+  },
+  "Icon Changer/FolderIconStudio/Helpers/ThemeHelper.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7826867,
+    "ast_hash": "93f888ed1535ab0a0e7b63c0c9c59bc6",
+    "semantic_hash": "93f888ed1535ab0a0e7b63c0c9c59bc6"
+  },
+  "Icon Changer/FolderIconStudio/MainWindow.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7827725,
+    "ast_hash": "0d3d4969d6fd66e94ab22fbf312e67cb",
+    "semantic_hash": "0d3d4969d6fd66e94ab22fbf312e67cb"
+  },
+  "Icon Changer/FolderIconStudio/MainWindow.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7828348,
+    "ast_hash": "27e92bac090e16b80e7fd3d562dab903",
+    "semantic_hash": "27e92bac090e16b80e7fd3d562dab903"
+  },
+  "Icon Changer/FolderIconStudio/Models/AppModels.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.782898,
+    "ast_hash": "4db344eaaa63b5e60dcf6088ed80b070",
+    "semantic_hash": "4db344eaaa63b5e60dcf6088ed80b070"
+  },
+  "Icon Changer/FolderIconStudio/Native/ShellInterop.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.782962,
+    "ast_hash": "28c7d2464635cd0f8d9f6f2ef67b47cb",
+    "semantic_hash": "28c7d2464635cd0f8d9f6f2ef67b47cb"
+  },
+  "Icon Changer/FolderIconStudio/Services/ElevationHelper.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7830265,
+    "ast_hash": "7607ec9ee91f86891ba8d07517062a2d",
+    "semantic_hash": "7607ec9ee91f86891ba8d07517062a2d"
+  },
+  "Icon Changer/FolderIconStudio/Services/FolderIconService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7830899,
+    "ast_hash": "8b63a6c8db444fb86d38674c81471974",
+    "semantic_hash": "8b63a6c8db444fb86d38674c81471974"
+  },
+  "Icon Changer/FolderIconStudio/Services/IconLibraryService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.783156,
+    "ast_hash": "8daf0825ce30a84d73fe747e90595d8f",
+    "semantic_hash": "8daf0825ce30a84d73fe747e90595d8f"
+  },
+  "Icon Changer/FolderIconStudio/Services/RegistryService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7832198,
+    "ast_hash": "fc3a81d0c0e5e53ba7a2d1b70c9eec66",
+    "semantic_hash": "fc3a81d0c0e5e53ba7a2d1b70c9eec66"
+  },
+  "Icon Changer/FolderIconStudio/Services/SettingsService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7833066,
+    "ast_hash": "4240ec7a6ccfc5baf018b395040bbfe3",
+    "semantic_hash": "4240ec7a6ccfc5baf018b395040bbfe3"
+  },
+  "Icon Changer/FolderIconStudio/Services/SingleInstanceService.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7833693,
+    "ast_hash": "d131ccf4e3ea8665062dc434e11b3186",
+    "semantic_hash": "d131ccf4e3ea8665062dc434e11b3186"
+  },
+  "Icon Changer/FolderIconStudio/ViewModels/Converters.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.783446,
+    "ast_hash": "7893b85622d5d61864b714adf0d9043e",
+    "semantic_hash": "7893b85622d5d61864b714adf0d9043e"
+  },
+  "Icon Changer/FolderIconStudio/ViewModels/MainViewModel.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7835097,
+    "ast_hash": "1960d90761f16e8c6d7578185f4452b9",
+    "semantic_hash": "1960d90761f16e8c6d7578185f4452b9"
+  },
+  "Icon Changer/FolderIconStudio/Views/FirstRunDialog.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7835715,
+    "ast_hash": "ddfd1c6fb68ab78c6f22cc1b6f865f8d",
+    "semantic_hash": "ddfd1c6fb68ab78c6f22cc1b6f865f8d"
+  },
+  "Icon Changer/FolderIconStudio/Views/FirstRunDialog.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7836356,
+    "ast_hash": "8855ff5d3f244b43c0fb9f56c7f472db",
+    "semantic_hash": "8855ff5d3f244b43c0fb9f56c7f472db"
+  },
+  "Icon Changer/FolderIconStudio/Views/SettingsWindow.xaml": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7836995,
+    "ast_hash": "87930e4081359155d800ee74d4baaf94",
+    "semantic_hash": "87930e4081359155d800ee74d4baaf94"
+  },
+  "Icon Changer/FolderIconStudio/Views/SettingsWindow.xaml.cs": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7837636,
+    "ast_hash": "e5d37b3ee60d44214510134f7a3ff1ab",
+    "semantic_hash": "e5d37b3ee60d44214510134f7a3ff1ab"
+  },
+  "Icon Changer/StarterIconGenerator/Program.cs": {
+    "mtime": 1788594922.0,
+    "seen": 1793318275.7838266,
+    "ast_hash": "0d23274d9412894892aaaba62d06dcfd",
+    "semantic_hash": "0d23274d9412894892aaaba62d06dcfd"
+  },
+  "Icon Changer/StarterIconGenerator/StarterIconGenerator.csproj": {
+    "mtime": 1788594922.0,
+    "seen": 1793318275.783931,
+    "ast_hash": "8267646bfac4fdc13adc352e3ca36dd2",
+    "semantic_hash": "8267646bfac4fdc13adc352e3ca36dd2"
+  },
+  "Icon Changer/build.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.784006,
+    "ast_hash": "820f0416cf0d8a9eb28e4e3bbe83b60a",
+    "semantic_hash": "820f0416cf0d8a9eb28e4e3bbe83b60a"
+  },
+  "Icon Changer/folder_icon_studio/__init__.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7840781,
+    "ast_hash": "1a572004aa30d4489b21972116818a31",
+    "semantic_hash": "1a572004aa30d4489b21972116818a31"
+  },
+  "Icon Changer/folder_icon_studio/app.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7841501,
+    "ast_hash": "28316545d6858263a2d707d8fa337fe4",
+    "semantic_hash": "28316545d6858263a2d707d8fa337fe4"
+  },
+  "Icon Changer/folder_icon_studio/assets/bundled/manifest.json": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7842164,
+    "ast_hash": "45078bf7b4cbf587ad06a41af3142370",
+    "semantic_hash": "45078bf7b4cbf587ad06a41af3142370"
+  },
+  "Icon Changer/folder_icon_studio/assets/publisher.json": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.784331,
+    "ast_hash": "f538c9470c742d708f7aed777645b1a2",
+    "semantic_hash": "f538c9470c742d708f7aed777645b1a2",
+    "ast_empty": true
+  },
+  "Icon Changer/folder_icon_studio/folder_row.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7843337,
+    "ast_hash": "aadf56027805f2d506b8c623a4309bbb",
+    "semantic_hash": "aadf56027805f2d506b8c623a4309bbb"
+  },
+  "Icon Changer/folder_icon_studio/generate_starters.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7844915,
+    "ast_hash": "c27cefc8eb208e4b95ab55b41e9a9642",
+    "semantic_hash": "c27cefc8eb208e4b95ab55b41e9a9642"
+  },
+  "Icon Changer/folder_icon_studio/icon_categorizer.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7845678,
+    "ast_hash": "a71595aa3929c9e5dc2b3ddc0a2a4b26",
+    "semantic_hash": "a71595aa3929c9e5dc2b3ddc0a2a4b26"
+  },
+  "Icon Changer/folder_icon_studio/icon_library.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7846382,
+    "ast_hash": "4a4d34734ac48ed4427ab32acbe6db45",
+    "semantic_hash": "4a4d34734ac48ed4427ab32acbe6db45"
+  },
+  "Icon Changer/folder_icon_studio/metadata.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.784706,
+    "ast_hash": "5ec0f3fb9d0480acd3be2b02528d57fb",
+    "semantic_hash": "5ec0f3fb9d0480acd3be2b02528d57fb"
+  },
+  "Icon Changer/folder_icon_studio/prepare_bundled.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7847755,
+    "ast_hash": "006628aa6954b92bf9594d99a9b11991",
+    "semantic_hash": "006628aa6954b92bf9594d99a9b11991"
+  },
+  "Icon Changer/folder_icon_studio/theme.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7848518,
+    "ast_hash": "2ec02905b0a98f147a3a98aa6ddf3448",
+    "semantic_hash": "2ec02905b0a98f147a3a98aa6ddf3448"
+  },
+  "Icon Changer/folder_icon_studio/thumbnail_cache.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7849228,
+    "ast_hash": "ef3025c7bd55a047f1dad65c01c37a54",
+    "semantic_hash": "ef3025c7bd55a047f1dad65c01c37a54"
+  },
+  "Icon Changer/folder_icon_studio/win32_icons.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.785,
+    "ast_hash": "3709de1308ecf2d4b0fed29f6206bb30",
+    "semantic_hash": "3709de1308ecf2d4b0fed29f6206bb30"
+  },
+  "Icon Changer/install.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7850764,
+    "ast_hash": "9e1e30b84eef0522d6c77b8fa72ebb7b",
+    "semantic_hash": "9e1e30b84eef0522d6c77b8fa72ebb7b"
+  },
+  "Icon Changer/main.py": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7851498,
+    "ast_hash": "09cac154e4c1f0ff633ba1bbb0a5812b",
+    "semantic_hash": "09cac154e4c1f0ff633ba1bbb0a5812b"
+  },
+  "Icon Changer/scripts/capture_screenshots.py": {
+    "mtime": 1788594922.0,
+    "seen": 1793318275.7852511,
+    "ast_hash": "49e5b3085334c4ec59d85572a7ed23be",
+    "semantic_hash": "49e5b3085334c4ec59d85572a7ed23be"
+  },
+  "Icon Changer/test-acceptance.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.785412,
+    "ast_hash": "54db9074905e0fa4b74930b3a3470354",
+    "semantic_hash": "54db9074905e0fa4b74930b3a3470354"
+  },
+  "Icon Changer/uninstall-context-menu.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7854812,
+    "ast_hash": "1cd44737b4fb8752fc34394292b9867e",
+    "semantic_hash": "1cd44737b4fb8752fc34394292b9867e"
+  },
+  "StarterIconGenerator/Program.cs": {
+    "mtime": 1788594922.0,
+    "seen": 1793318275.7855494,
+    "ast_hash": "0d23274d9412894892aaaba62d06dcfd",
+    "semantic_hash": "0d23274d9412894892aaaba62d06dcfd"
+  },
+  "StarterIconGenerator/StarterIconGenerator.csproj": {
+    "mtime": 1788594922.0,
+    "seen": 1793318275.7856169,
+    "ast_hash": "8267646bfac4fdc13adc352e3ca36dd2",
+    "semantic_hash": "8267646bfac4fdc13adc352e3ca36dd2"
+  },
+  "build.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.785682,
+    "ast_hash": "820f0416cf0d8a9eb28e4e3bbe83b60a",
+    "semantic_hash": "820f0416cf0d8a9eb28e4e3bbe83b60a"
+  },
+  "folder_icon_studio/__init__.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7857454,
+    "ast_hash": "1a572004aa30d4489b21972116818a31",
+    "semantic_hash": "1a572004aa30d4489b21972116818a31"
+  },
+  "folder_icon_studio/app.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7858112,
+    "ast_hash": "28316545d6858263a2d707d8fa337fe4",
+    "semantic_hash": "28316545d6858263a2d707d8fa337fe4"
+  },
+  "folder_icon_studio/assets/bundled/manifest.json": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7858756,
+    "ast_hash": "45078bf7b4cbf587ad06a41af3142370",
+    "semantic_hash": "45078bf7b4cbf587ad06a41af3142370"
+  },
+  "folder_icon_studio/assets/publisher.json": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7859464,
+    "ast_hash": "f538c9470c742d708f7aed777645b1a2",
+    "semantic_hash": "f538c9470c742d708f7aed777645b1a2",
+    "ast_empty": true
+  },
+  "folder_icon_studio/folder_row.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7859485,
+    "ast_hash": "aadf56027805f2d506b8c623a4309bbb",
+    "semantic_hash": "aadf56027805f2d506b8c623a4309bbb"
+  },
+  "folder_icon_studio/generate_starters.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7860126,
+    "ast_hash": "c27cefc8eb208e4b95ab55b41e9a9642",
+    "semantic_hash": "c27cefc8eb208e4b95ab55b41e9a9642"
+  },
+  "folder_icon_studio/icon_categorizer.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7860932,
+    "ast_hash": "a71595aa3929c9e5dc2b3ddc0a2a4b26",
+    "semantic_hash": "a71595aa3929c9e5dc2b3ddc0a2a4b26"
+  },
+  "folder_icon_studio/icon_library.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.786157,
+    "ast_hash": "4a4d34734ac48ed4427ab32acbe6db45",
+    "semantic_hash": "4a4d34734ac48ed4427ab32acbe6db45"
+  },
+  "folder_icon_studio/metadata.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7862182,
+    "ast_hash": "5ec0f3fb9d0480acd3be2b02528d57fb",
+    "semantic_hash": "5ec0f3fb9d0480acd3be2b02528d57fb"
+  },
+  "folder_icon_studio/prepare_bundled.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7862802,
+    "ast_hash": "006628aa6954b92bf9594d99a9b11991",
+    "semantic_hash": "006628aa6954b92bf9594d99a9b11991"
+  },
+  "folder_icon_studio/theme.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7863429,
+    "ast_hash": "2ec02905b0a98f147a3a98aa6ddf3448",
+    "semantic_hash": "2ec02905b0a98f147a3a98aa6ddf3448"
+  },
+  "folder_icon_studio/thumbnail_cache.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.786405,
+    "ast_hash": "ef3025c7bd55a047f1dad65c01c37a54",
+    "semantic_hash": "ef3025c7bd55a047f1dad65c01c37a54"
+  },
+  "folder_icon_studio/win32_icons.py": {
+    "mtime": 1788594874.0,
+    "seen": 1793318275.7864664,
+    "ast_hash": "3709de1308ecf2d4b0fed29f6206bb30",
+    "semantic_hash": "3709de1308ecf2d4b0fed29f6206bb30"
+  },
+  "install.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.786528,
+    "ast_hash": "9e1e30b84eef0522d6c77b8fa72ebb7b",
+    "semantic_hash": "9e1e30b84eef0522d6c77b8fa72ebb7b"
+  },
+  "main.py": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7865915,
+    "ast_hash": "09cac154e4c1f0ff633ba1bbb0a5812b",
+    "semantic_hash": "09cac154e4c1f0ff633ba1bbb0a5812b"
+  },
+  "scripts/capture_screenshots.py": {
+    "mtime": 1788594922.0,
+    "seen": 1793318275.7866523,
+    "ast_hash": "49e5b3085334c4ec59d85572a7ed23be",
+    "semantic_hash": "49e5b3085334c4ec59d85572a7ed23be"
+  },
+  "test-acceptance.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7867172,
+    "ast_hash": "54db9074905e0fa4b74930b3a3470354",
+    "semantic_hash": "54db9074905e0fa4b74930b3a3470354"
+  },
+  "uninstall-context-menu.ps1": {
+    "mtime": 1788594872.0,
+    "seen": 1793318275.7867787,
+    "ast_hash": "1cd44737b4fb8752fc34394292b9867e",
+    "semantic_hash": "1cd44737b4fb8752fc34394292b9867e"
+  },
+  "Icon Changer/docs/screenshots/01-main-window.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.940174,
+    "ast_hash": "cc7e50381f060124c7859ee8cb1c9ad4",
+    "semantic_hash": ""
+  },
+  "Icon Changer/docs/screenshots/02-folders-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.940176,
+    "ast_hash": "f9d3f72ffc38855116ffb6ff93d90c6e",
+    "semantic_hash": ""
+  },
+  "Icon Changer/docs/screenshots/03-windows-system-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401774,
+    "ast_hash": "2ae89a5f3ef2f73accce8baa2db9b50e",
+    "semantic_hash": ""
+  },
+  "Icon Changer/docs/screenshots/04-development-category.png": {
+    "mtime": 1788594874.0,
+    "seen": 1793319387.9401782,
+    "ast_hash": "8057f597b5aa7c93bb4db7027dde2e03",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/01-main-window.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401789,
+    "ast_hash": "cc7e50381f060124c7859ee8cb1c9ad4",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/02-folders-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401798,
+    "ast_hash": "f9d3f72ffc38855116ffb6ff93d90c6e",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/03-windows-system-category.png": {
+    "mtime": 1788594872.0,
+    "seen": 1793319387.9401805,
+    "ast_hash": "2ae89a5f3ef2f73accce8baa2db9b50e",
+    "semantic_hash": ""
+  },
+  "docs/screenshots/04-development-category.png": {
+    "mtime": 1788594874.0,
+    "seen": 1793319387.9401815,
+    "ast_hash": "8057f597b5aa7c93bb4db7027dde2e03",
+    "semantic_hash": ""
+  }
+}
